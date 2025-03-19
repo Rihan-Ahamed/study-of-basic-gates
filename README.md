@@ -81,6 +81,8 @@ endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: Rihan Ahamed.S
+
+ 
  RegisterNumber:212224040276 
 
  
@@ -100,5 +102,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **Result:**
+
+
     Studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully
 
